@@ -1,0 +1,8 @@
+*.gitattributes linguist-language=gitattributes
+
+*.css linguist-detectable=false
+*.pl linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=true
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
